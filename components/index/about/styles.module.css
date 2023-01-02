@@ -1,0 +1,14 @@
+
+.slogan {
+    width: 100%;
+    font-size: 44px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 50px;
+}
+
+.content {
+    font-size: 22px;
+    text-align: justify;
+}
